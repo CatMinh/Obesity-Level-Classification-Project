@@ -195,7 +195,7 @@ The data was thoroughly preprocessed and analyzed using modern data visualizatio
   It is a well-suited dataset for building predictive models of obesity based on lifestyle and demographic features.
 
 
-# Aplly model
+# Apply model
 - Logistic Regression  
   ![image](https://github.com/user-attachments/assets/83051a24-7ad1-4e47-875e-74813beb0962)
 
